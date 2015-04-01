@@ -26,7 +26,7 @@ Vertical Center lets you easily vertically center elements.
 * Trigger custom 'verticalcenter' event to force a recalculation
 * Debounced resize events for added smoothness
 
-Check out the Screenshots tab for a gif of the plugin in action.
+Check out the [Screenshots tab](https://wordpress.org/plugins/vertical-center/screenshots/) for a gif of the plugin in action.
 
 = Instructions =
 
