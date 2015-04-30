@@ -3,8 +3,8 @@ Contributors:      Braad
 Donate link:       http://braadmartin.com
 Tags:              vertical, center, responsive, jQuery, JavaScript
 Requires at least: 3.8
-Tested up to:      4.2
-Stable tag:        1.0.0
+Tested up to:      4.2.1
+Stable tag:        1.0.1
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -102,6 +102,11 @@ jQuery( window ).trigger( 'verticalcenter' );
 1. Click Install.
 
 == Changelog ==
+
+= 1.0.1 =
+* Added support for using selectors that match multiple items
+* Improved compatibility with other plugins that use JS to affect layout
+* Bugfix: Better scoping of the admin JS to prevent conflicts with other plugins
 
 = 1.0.0 =
 * First release
