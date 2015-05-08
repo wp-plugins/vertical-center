@@ -10,7 +10,7 @@
  * Plugin Name: 		Vertical Center
  * Plugin URI: 			https://wordpress.org/plugins/vertical-center/
  * Description: 		Easily vertically center any element relative to its container. Fully responsive.
- * Version: 			1.0.1
+ * Version: 			1.0.2
  * Author:				Braad Martin
  * Author URI: 			http://braadmartin.com
  * License: 			GPL-2.0+

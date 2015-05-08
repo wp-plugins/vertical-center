@@ -4,7 +4,7 @@ Donate link:       http://braadmartin.com
 Tags:              vertical, center, responsive, jQuery, JavaScript
 Requires at least: 3.8
 Tested up to:      4.2.1
-Stable tag:        1.0.1
+Stable tag:        1.0.2
 License:           GPLv2 or later
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -102,6 +102,9 @@ jQuery( window ).trigger( 'verticalcenter' );
 1. Click Install.
 
 == Changelog ==
+
+= 1.0.2 =
+* Improve centering calculation when parent elements have padding
 
 = 1.0.1 =
 * Added support for using selectors that match multiple items
